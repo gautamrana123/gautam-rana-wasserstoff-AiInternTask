@@ -1,6 +1,4 @@
 # Document Research & Theme Identification Chatbot
-# Complete minimal implementation with all core features
-
 import os
 import json
 import sqlite3
